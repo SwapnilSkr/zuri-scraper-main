@@ -1,0 +1,6 @@
+# Proxy Configuration File
+# Add your proxy servers here, one per line
+# Format: protocol://username:password@host:port
+
+# Rotating proxy endpoint from webshare.io
+http://imypnszr-rotate:qeiwtlcqdibv@p.webshare.io:80/
