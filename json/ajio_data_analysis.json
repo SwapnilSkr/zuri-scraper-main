@@ -1,0 +1,2903 @@
+{
+  "source_file": "json/ajio_data.json",
+  "analysis_timestamp": "2025-10-22T13:51:26.638144",
+  "total_products": 8455,
+  "unique_keywords": 444,
+  "product_target_per_keyword": 20,
+  "keyword_analysis": [
+    {
+      "keyword": "straight suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sequin work suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "anarkali suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "daily wear suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "party wear suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "wedding suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "pastel suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "floral suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "leheriya suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "bandhani suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "chikankari suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "zari work suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "gota patti suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "mirror work suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "a-line suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "angrakha suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "embroidered suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "jacket style suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cape suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "panelled suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "printed suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "rayon suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "khadi suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "muslin suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "satin suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "net suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "brocade suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "velvet suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cotton suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "chanderi suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "silk suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "linen suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "georgette suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "organza suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "gota patti patiala suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "gota patti sharara suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sequin work palazzo suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "zari work patiala suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "zari work cigarette pants suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "zari work sharara suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "zari work palazzo suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sequin work patiala suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sequin work cigarette pants suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sequin work sharara suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "gota patti palazzo suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "mirror work patiala suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "mirror work cigarette pants suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "mirror work palazzo suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "printed patiala suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "printed cigarette pants suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "printed palazzo suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "embroidered patiala suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "embroidered cigarette pants suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "embroidered sharara suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "embroidered palazzo suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "mirror work sharara suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "straight pants suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "dhoti pants suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "patiala suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cigarette pants suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "churidar suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sharara suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "palazzo suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "umbrella suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "front-slit suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "side-slit suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cape style suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "double-layer suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "raw silk suit set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "gota patti kurta set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "embroidered kurta set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "printed kurta set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "anarkali palazzo set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "kurta straight pants set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "kurta cigarette pants set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "kurta churidar set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "kota doria saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "bandhani saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "maheshwari saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "chanderi saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "patola saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "satin saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "leheriya saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "ikat saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "kalamkari saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "bhagalpuri saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "upada silk saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "paithani saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "georgette saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "silk blend saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "net saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cotton saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "linen saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "crepe saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "banarasi saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "chiffon saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "organza saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "tussar silk saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "kanjivaram saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "velvet saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "embroidered saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "daily wear saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "party wear saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sequin saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "pre-draped saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "printed saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "belt saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "ruffle saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "digital print saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "organza floral saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "handloom cotton saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "linen blend saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "bandhej saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "assam muga saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "arna silk saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "dhakai jamdani saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "pochampally ikat saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "gadwal saree",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "embroidered kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "printed kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "khadi kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "panelled kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "a-line kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "angrakha kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "high-low kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "asymmetric kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "straight kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "flared kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "shirt style kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "short kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "side-slit kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "front-slit kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "block print kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "ajrak print kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "ikat kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "indigo print kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "foil print kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "gotta lace kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "schiffli kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "pintuck kurti",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "pathani kurta",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "straight kurta",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "panelled kurta",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "pintuck kurta",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "pastel lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "organza lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "georgette lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "silk lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "brocade lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "floral lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "party wear lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sangeet lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cocktail lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "velvet lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "net lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sequin lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "embroidered lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "crop top lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "panelled lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "a-line lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "mermaid lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "flared lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "floral organza lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "printed organza lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "hand embroidered lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "bandhani lehenga",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "embroidered dupatta",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "gota patti dupatta",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "chanderi dupatta",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "net dupatta",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "banarasi dupatta",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "phulkari dupatta",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "silk dupatta",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "organza dupatta",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "chiffon dupatta",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "bandhani dupatta",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "halter neck blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sequin blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "brocade blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "silk blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "velvet blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "readymade blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "square-neck blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "boat-neck blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "elbow-sleeve blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sleeveless blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "padded blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "embroidered blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "v-neck blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "ethnic jacket",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "crewneck sweater",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cable knit sweater",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "turtleneck sweater",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "satin shirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cardigan sweater",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "checked shirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "denim shirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "camisole top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cropped cardigan",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "shrug top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "tank top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "mesh top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sheer blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "tie-front top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "kaftan top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "shirt dress top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "linen shirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cotton shirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "crop top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "ribbed t-shirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "v-neck top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "polo t-shirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "wrap top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "corset top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "halter neck top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "one-shoulder top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "off-shoulder top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "square-neck top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "peplum top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "ruffle blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "graphic t-shirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "oversized t-shirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "v-neck t-shirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "satin blouse",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "midi skirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "denim skirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "pleated skirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "palazzo pants",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "culottes",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "linen pants",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "bermuda shorts",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "jogger pants",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "denim shorts",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "linen shorts",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "leggings",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "pencil skirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "mini skirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "high-waist trousers",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "mom jeans",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "wide-leg jeans",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cigarette trousers",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "slim jeans",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "straight jeans",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "bootcut jeans",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "flare jeans",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "skinny jeans",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "tapered jeans",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "high-rise jeans",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "ankle-length jeans",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "paperbag trousers",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "tapered trousers",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "pleated trousers",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "off-shoulder dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sweater dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "denim dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "satin dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "lace dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "ruffle dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "one-shoulder dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "formal dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "maternity dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "halter neck dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "square-neck dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "tiered dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "kaftan dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "t-shirt dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "jumpsuit",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "summer dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "mini dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cocktail dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "skater dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "bodycon dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "a-line dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "slip dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "maxi dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "midi dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "shirt dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sheath dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "empire waist dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "fit and flare dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "smocked dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "ruched dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sequin dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "party dress",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "puffer jacket",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "gilet",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "waterproof jacket",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "longline coat",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cape coat",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "shawl wrap",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "pea coat",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "trench coat",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "wool coat",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "denim jacket",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "double-breasted blazer",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "blazer",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "bomber jacket",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "party co-ord set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "satin co-ord set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "printed co-ord set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "athleisure co-ord set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "festive co-ord set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "linen co-ord set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "denim co-ord set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "ribbed co-ord set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "knit co-ord set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "blazer co-ord set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "athletic t-shirt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "running shorts",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "zip-up hoodie",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "training jacket",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "gym tank top",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "joggers",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "yoga pants",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "high waist leggings",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sports bra",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "track pants",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "monokini",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "oxidised necklace",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "bangle set",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "kada bracelet",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cuff bracelet",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "tennis bracelet",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "bracelet watch",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cocktail ring",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "adjustable ring",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "maang tikka",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "waist belt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "nose ring",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "chain belt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "kundan necklace",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "brooch pin",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "hair claw clip",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "leather belt",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "pearl necklace",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "pendant necklace",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "crossbody bag",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "tote bag",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "hobo bag",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "satchel bag",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "bucket bag",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "clutch bag",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "evening clutch",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "wallet",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "mini bag",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "mobile sling bag",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sling bag",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "hoop earrings",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "ear cuff",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "drop earrings",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "layered necklace",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "stud earrings",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "chandelier earrings",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "chandbali earrings",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "jhumka earrings",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "ankle boots",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "platform sandals",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "white sneakers",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "running shoes",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "walking shoes",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "slip-on sneakers",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "chelsea boots",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "toe-ring sandals",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "block heel sandals",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "wedge sandals",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "ankle strap sandals",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "cross-strap sandals",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "embroidered sandals",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "slingback pumps",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "pointed-toe pumps",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "dress loafers",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "kolhapuri sandals",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "kolhapuri wedges",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "mule heels",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "embellished heels",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "block heels",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "wedge heels",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "kitten heels",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "platform heels",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "pumps",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "peep-toe heels",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "slingback heels",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "ankle-strap heels",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "embroidered juttis",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "loafer flats",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "slides",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "strappy sandals",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "t-strap sandals",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "flat sandals",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "embellished juttis",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "tassel loafers",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "saree gown",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "loungewear",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "indowestern",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "track suits",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "fusion lehenga sets",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "mixed metal jewellery",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sports leggings",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "barrel jeans",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "playsuit",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "stole",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "scarf",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "muffler",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "beanie",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "hat",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "sunglass",
+      "product_count": 20,
+      "percentage": 100.0,
+      "is_complete": true
+    },
+    {
+      "keyword": "banarasi katan saree",
+      "product_count": 17,
+      "percentage": 85.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "linen kurti",
+      "product_count": 17,
+      "percentage": 85.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "georgette dupatta",
+      "product_count": 17,
+      "percentage": 85.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "tissue silk suit set",
+      "product_count": 16,
+      "percentage": 80.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "kota silk saree",
+      "product_count": 16,
+      "percentage": 80.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "chanderi kurti",
+      "product_count": 16,
+      "percentage": 80.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "banarasi lehenga",
+      "product_count": 16,
+      "percentage": 80.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "boho dress",
+      "product_count": 15,
+      "percentage": 75.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "tube top",
+      "product_count": 13,
+      "percentage": 65.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "wrap dress",
+      "product_count": 13,
+      "percentage": 65.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "espadrilles",
+      "product_count": 12,
+      "percentage": 60.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "silk kurti",
+      "product_count": 11,
+      "percentage": 55.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "empire waist kurti",
+      "product_count": 11,
+      "percentage": 55.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "cashmere",
+      "product_count": 11,
+      "percentage": 55.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "long kurti",
+      "product_count": 10,
+      "percentage": 50.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "uppada saree",
+      "product_count": 9,
+      "percentage": 45.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "georgette kurti",
+      "product_count": 9,
+      "percentage": 45.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "evening gown",
+      "product_count": 9,
+      "percentage": 45.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "organza silk suit set",
+      "product_count": 8,
+      "percentage": 40.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "tiered kurti",
+      "product_count": 8,
+      "percentage": 40.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "cover-up sarong",
+      "product_count": 8,
+      "percentage": 40.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "metallic heels",
+      "product_count": 8,
+      "percentage": 40.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "mules",
+      "product_count": 8,
+      "percentage": 40.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "rayon kurti",
+      "product_count": 7,
+      "percentage": 35.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "cotton kurti",
+      "product_count": 7,
+      "percentage": 35.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "mary jane flats",
+      "product_count": 7,
+      "percentage": 35.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "angrakha palazzo set",
+      "product_count": 6,
+      "percentage": 30.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "choker necklace",
+      "product_count": 5,
+      "percentage": 25.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "stockings",
+      "product_count": 5,
+      "percentage": 25.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "organza kurti",
+      "product_count": 4,
+      "percentage": 20.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "muslin kurti",
+      "product_count": 3,
+      "percentage": 15.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "knit top",
+      "product_count": 3,
+      "percentage": 15.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "biker jacket",
+      "product_count": 3,
+      "percentage": 15.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "matha patti",
+      "product_count": 2,
+      "percentage": 10.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "stiletto heels",
+      "product_count": 2,
+      "percentage": 10.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "brocade bridal lehenga",
+      "product_count": 1,
+      "percentage": 5.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "bikini set",
+      "product_count": 1,
+      "percentage": 5.0,
+      "is_complete": false
+    },
+    {
+      "keyword": "one-piece swimsuit",
+      "product_count": 1,
+      "percentage": 5.0,
+      "is_complete": false
+    }
+  ],
+  "incomplete_products_for_keywords": [
+    {
+      "keyword": "banarasi katan saree",
+      "product_count": 17,
+      "missing_count": 3,
+      "percentage": 85.0
+    },
+    {
+      "keyword": "linen kurti",
+      "product_count": 17,
+      "missing_count": 3,
+      "percentage": 85.0
+    },
+    {
+      "keyword": "georgette dupatta",
+      "product_count": 17,
+      "missing_count": 3,
+      "percentage": 85.0
+    },
+    {
+      "keyword": "tissue silk suit set",
+      "product_count": 16,
+      "missing_count": 4,
+      "percentage": 80.0
+    },
+    {
+      "keyword": "kota silk saree",
+      "product_count": 16,
+      "missing_count": 4,
+      "percentage": 80.0
+    },
+    {
+      "keyword": "chanderi kurti",
+      "product_count": 16,
+      "missing_count": 4,
+      "percentage": 80.0
+    },
+    {
+      "keyword": "banarasi lehenga",
+      "product_count": 16,
+      "missing_count": 4,
+      "percentage": 80.0
+    },
+    {
+      "keyword": "boho dress",
+      "product_count": 15,
+      "missing_count": 5,
+      "percentage": 75.0
+    },
+    {
+      "keyword": "tube top",
+      "product_count": 13,
+      "missing_count": 7,
+      "percentage": 65.0
+    },
+    {
+      "keyword": "wrap dress",
+      "product_count": 13,
+      "missing_count": 7,
+      "percentage": 65.0
+    },
+    {
+      "keyword": "espadrilles",
+      "product_count": 12,
+      "missing_count": 8,
+      "percentage": 60.0
+    },
+    {
+      "keyword": "silk kurti",
+      "product_count": 11,
+      "missing_count": 9,
+      "percentage": 55.0
+    },
+    {
+      "keyword": "empire waist kurti",
+      "product_count": 11,
+      "missing_count": 9,
+      "percentage": 55.0
+    },
+    {
+      "keyword": "cashmere",
+      "product_count": 11,
+      "missing_count": 9,
+      "percentage": 55.0
+    },
+    {
+      "keyword": "long kurti",
+      "product_count": 10,
+      "missing_count": 10,
+      "percentage": 50.0
+    },
+    {
+      "keyword": "uppada saree",
+      "product_count": 9,
+      "missing_count": 11,
+      "percentage": 45.0
+    },
+    {
+      "keyword": "georgette kurti",
+      "product_count": 9,
+      "missing_count": 11,
+      "percentage": 45.0
+    },
+    {
+      "keyword": "evening gown",
+      "product_count": 9,
+      "missing_count": 11,
+      "percentage": 45.0
+    },
+    {
+      "keyword": "organza silk suit set",
+      "product_count": 8,
+      "missing_count": 12,
+      "percentage": 40.0
+    },
+    {
+      "keyword": "tiered kurti",
+      "product_count": 8,
+      "missing_count": 12,
+      "percentage": 40.0
+    },
+    {
+      "keyword": "cover-up sarong",
+      "product_count": 8,
+      "missing_count": 12,
+      "percentage": 40.0
+    },
+    {
+      "keyword": "metallic heels",
+      "product_count": 8,
+      "missing_count": 12,
+      "percentage": 40.0
+    },
+    {
+      "keyword": "mules",
+      "product_count": 8,
+      "missing_count": 12,
+      "percentage": 40.0
+    },
+    {
+      "keyword": "rayon kurti",
+      "product_count": 7,
+      "missing_count": 13,
+      "percentage": 35.0
+    },
+    {
+      "keyword": "cotton kurti",
+      "product_count": 7,
+      "missing_count": 13,
+      "percentage": 35.0
+    },
+    {
+      "keyword": "mary jane flats",
+      "product_count": 7,
+      "missing_count": 13,
+      "percentage": 35.0
+    },
+    {
+      "keyword": "angrakha palazzo set",
+      "product_count": 6,
+      "missing_count": 14,
+      "percentage": 30.0
+    },
+    {
+      "keyword": "choker necklace",
+      "product_count": 5,
+      "missing_count": 15,
+      "percentage": 25.0
+    },
+    {
+      "keyword": "stockings",
+      "product_count": 5,
+      "missing_count": 15,
+      "percentage": 25.0
+    },
+    {
+      "keyword": "organza kurti",
+      "product_count": 4,
+      "missing_count": 16,
+      "percentage": 20.0
+    },
+    {
+      "keyword": "muslin kurti",
+      "product_count": 3,
+      "missing_count": 17,
+      "percentage": 15.0
+    },
+    {
+      "keyword": "knit top",
+      "product_count": 3,
+      "missing_count": 17,
+      "percentage": 15.0
+    },
+    {
+      "keyword": "biker jacket",
+      "product_count": 3,
+      "missing_count": 17,
+      "percentage": 15.0
+    },
+    {
+      "keyword": "matha patti",
+      "product_count": 2,
+      "missing_count": 18,
+      "percentage": 10.0
+    },
+    {
+      "keyword": "stiletto heels",
+      "product_count": 2,
+      "missing_count": 18,
+      "percentage": 10.0
+    },
+    {
+      "keyword": "brocade bridal lehenga",
+      "product_count": 1,
+      "missing_count": 19,
+      "percentage": 5.0
+    },
+    {
+      "keyword": "bikini set",
+      "product_count": 1,
+      "missing_count": 19,
+      "percentage": 5.0
+    },
+    {
+      "keyword": "one-piece swimsuit",
+      "product_count": 1,
+      "missing_count": 19,
+      "percentage": 5.0
+    }
+  ]
+}
